@@ -1,4 +1,6 @@
 MediChain Nexus: Decentralized Healthcare Record Management System
+
+
 This is a decentralized web application that puts patients in complete control of their medical records. Built on the Ethereum blockchain, MediChain Nexus ensures that health data is secure, transparent, and accessible only by authorized parties.
 
 Features
