@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/medichain-nexus/static/css/main.7bba35d3.css",
+    "main.js": "/medichain-nexus/static/js/main.70f78289.js",
+    "static/js/453.b39978df.chunk.js": "/medichain-nexus/static/js/453.b39978df.chunk.js",
+    "index.html": "/medichain-nexus/index.html",
+    "main.7bba35d3.css.map": "/medichain-nexus/static/css/main.7bba35d3.css.map",
+    "main.70f78289.js.map": "/medichain-nexus/static/js/main.70f78289.js.map",
+    "453.b39978df.chunk.js.map": "/medichain-nexus/static/js/453.b39978df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bba35d3.css",
+    "static/js/main.70f78289.js"
+  ]
+}
